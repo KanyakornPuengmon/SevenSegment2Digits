@@ -1,0 +1,7 @@
+dependencies :
+  LED:
+    git: https://github.com/KanyakornPuengmon/LED_Test.git 
+    path: components/LED
+  SEVENSEGMENT:
+    git: https://github.com/KanyakornPuengmon/sevensegment.git 
+    path: components/SevenSegment
